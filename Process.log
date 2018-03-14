@@ -1,0 +1,11 @@
+2018-03-07 11:16:24,476  Process_Started 1211 system state is okay
+2018-03-07 11:16:25,477 Process_Started 1210 system state is okay
+2018-03-07 11:16:26,478 Process_Started 1212 system state is okay
+2018-03-07 11:16:27,479 Process_End 1211 no cores found
+2018-03-07 11:16:28,480 Process_Started 1213 system state is okay
+2018-03-07 11:16:29,481 Process_Started 1214 no cores found
+2018-03-07 11:16:30,482 Process_End 1210 no cores found
+2018-03-07 11:16:31,483 Process_End 1212 no cores found
+2018-03-07 11:16:32,484 Process_End 1213 no cores found
+2018-03-07 11:16:33,485 Process_End 1214 no cores found
+
